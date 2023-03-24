@@ -82,7 +82,7 @@ var x = setInterval(function() {
 			<!--<div class="big-header">Earthen Ethics Symposium</div>-->
 
 			<div class="sub-text">
-			<h4>Planet-wide individuals are working daily to cocreate a more hospitable home and greener planet for all living beings.</h4>
+			<h4>Worldwide we are all facing the challenge of poisonin our home.</h4>
 			<p>
 				The aim of this  symposium is to gather people, game changers and experts from different countries, with different stories and different lived experiences into an open space to talk about how we reintegrate with our planet.</p>
 
@@ -100,7 +100,7 @@ var x = setInterval(function() {
 	  
 	<div id="content-sect2">
 		<div id="main-content">
-			<div class="lead-graphic"><img src="png/earthern-ethics-cycles.png" width="100%" height="96%" alt="eco bricks follow the Earth's example." max-width="700px" loading="lazy">
+			<div class="lead-graphic"><img src="png/earthern-ethics-cycles.png" width="100%" height="100%" alt="eco bricks follow the Earth's example." max-width="700px" loading="lazy">
 			</div>
 			<div class="sub-text">
 			<h4>
@@ -161,7 +161,7 @@ Join Ani Himawati in a mindful mandala meditation.  Training our minds to think 
 			</div>
 
 			 <a href="faqs.php" button class="main-button">Register</a>
-			<h6><a href="what.php">Find out more</a> | <a href="/how">Schedule</a> | <a href="/why">Speakers</a></h6>
+			<h6><a href="what.php">Find out more</a> | <a href="how.php">Schedule</a> | <a href="why.php">Speakers</a></h6>
 		</div>
 	</div>	
 
@@ -171,7 +171,9 @@ Join Ani Himawati in a mindful mandala meditation.  Training our minds to think 
 <!--
 	<div id="content-sect3">
 		<div id="main-content">
-			<div class="lead-graphic"><img src="webp/spiral-circular-800px.webp" width="100%" max-width="777px" height="90%" alt="eco brick plastic brick building" loading="lazy"></div>
+			<div class="lead-graphic"><
+
+="webp/spiral-circular-800px.webp" width="100%" max-width="777px" height="90%" alt="eco brick plastic brick building" loading="lazy"></div>
 			<div class="big-header">The Problem is the Solution.</div>
 			<div class="sub-text"><p>Ecobricks turn used plastic into reusable building blocks ideal for circular & spiral building applications.  Ecobrick applications range from home furniture, to food-forest gardens to structures.  By transforming the problem, we can build solutions!</p>
 			</div> 
