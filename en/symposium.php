@@ -99,7 +99,7 @@ var x = setInterval(function() {
 	  
 	<div id="content-sect2">
 		<div id="main-content">
-			<div class="lead-graphic"><img src="png/earthern-ethics-cycles.png" width="100%" height="100%" alt="eco bricks follow the Earth's example." max-width="700px" loading="lazy">
+			<div class="lead-graphic"><img src="png/earthern-ethics-cycles.png" width="100%" height="100%" alt="eco bricks follow the Earth's example." style="opacity:0.4;filter:alpha(opacity=40);" max-width="700px" loading="lazy">
 			</div>
 			<div class="sub-text">
 	
