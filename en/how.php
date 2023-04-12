@@ -38,7 +38,7 @@ var x = setInterval(function() {
 <!--MAIN CONTENT-->
 		
 <BODY id="full-page"> 
-	Hi
+	
 	<div id="load-background"> 
 
 	<!-- This loads the page's language specific menu -->
